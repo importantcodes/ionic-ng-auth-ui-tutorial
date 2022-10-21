@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ng-auth-ui-tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
